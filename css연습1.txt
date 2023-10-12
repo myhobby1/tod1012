@@ -1,0 +1,49 @@
+오후 8:43 2023-10-12
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+ {
+  box-sizing: border-box;
+}
+
+.header {
+  border: 3px solid yellow;
+  padding: 25px;
+}
+
+.menu {
+  width: 25%;
+  float: left;
+  padding: 15px;
+  border: 2px solid blue;
+}
+
+.main {
+  width: 75%;
+  float: left;
+  padding: 15px;
+  border: 3px solid red;
+}
+</style>
+</head>
+<body>
+<h1>Chania</h1>
+<div class="menu">
+  <ol>
+    <li>The Flight</li>
+    <li>The City</li>
+    <li>The Island</li>
+    <li>The Food</li>
+  </ol>
+</div>
+
+<div class="main">
+  <h1>The City</h1>
+  <p>Chania is the capital of the Chania region on the island of Crete. The city can be divided in two parts, the old town and the modern city.</p>
+</div> 
+</body>
+</html>
+
+
